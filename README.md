@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ItsKarmaOff
+# ItsKarmaOff (Christophe VANDEVOIR)
 
 ## À propos de moi
 
-Salut ! Je suis Christophe VANDEVOIR, un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par les projets graphiques.
+Salut ! Je suis Christophe, un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par les projets graphiques.
 
 ## Compétences
 
