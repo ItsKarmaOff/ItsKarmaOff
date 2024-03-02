@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ItsKarmaOff
+
+## À propos de moi
+
+Salut ! Je suis [Christophe VANDEVOIR], un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par [les projets graphiques].
+
+## Compétences
+
+- Langages de programmation : [C, Python, HTML, PHP.]
+- Technologies : [Docker.]
+- Outils : [Git, CLion, VS Code.]
+
+## Projets
+
+### Minishell1
+
+Reproduction des fonctionalités de base d'un interpreteur UNIX.
+
+<!--[GitHub Repository](lien_vers_le_projet)-->
+
+### MyHunter
+
+Reproduction des fonctionnalités du jeu NES Duck Hunt de 1984.
+
+<!--[GitHub Repository](lien_vers_le_projet)-->
+
+## Contact
+
+- Adresse e-mail : [christophe.vandevoir@epitech.eu]
+- LinkedIn : [Christophe VANDEVOIR](https://www.linkedin.com/in/christophe-vandevoir/)
