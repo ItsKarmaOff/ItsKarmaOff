@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ## À propos de moi
 
-Salut ! Je suis [Christophe VANDEVOIR], un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par [les projets graphiques].
+Salut ! Je suis Christophe VANDEVOIR, un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par les projets graphiques.
 
 ## Compétences
 
-- Langages de programmation : [C, Python, HTML, PHP.]
-- Technologies : [Docker.]
-- Outils : [Git, CLion, VS Code.]
+- Langages de programmation : C, Python, HTML, PHP.
+- Technologies : Docker.
+- Outils : Git, CLion, VS Code.
 
 ## Projets
 
@@ -43,5 +43,5 @@ Reproduction des fonctionnalités du jeu NES Duck Hunt de 1984.
 
 ## Contact
 
-- Adresse e-mail : [christophe.vandevoir@epitech.eu]
+- Adresse e-mail : christophe.vandevoir@epitech.eu
 - LinkedIn : [Christophe VANDEVOIR](https://www.linkedin.com/in/christophe-vandevoir/)
