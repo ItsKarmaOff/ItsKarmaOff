@@ -1,47 +1,28 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**ItsKarmaOff/ItsKarmaOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# ItsKarmaOff (Christophe VANDEVOIR)
+Salut ! Je suis Christophe VANDEVOIR, étudiant à Epitech passionné par le développement logiciel et les nouvelles technologies. Je suis constamment en quête d'apprentissage et de défis pour améliorer mes compétences en programmation.
 
 ## À propos de moi
 
-Salut ! Je suis Christophe, un passionné de programmation et de technologie. Mon objectif est de contribuer à des projets open source et d'apprendre constamment de nouvelles technologies. Je suis particulièrement intéressé par les projets graphiques.
+- 🎓 Étudiant à [Epitech](https://www.epitech.eu/)
+- 💻 Domaines d'intérêt : Développement web, Développement mobile, Intelligence artificielle, Sécurité informatique
+- 🌱 Actuellement en train d'apprendre : 
+- 🔭 Je suis à la recherche de stages pour mettre en pratique mes compétences.
 
-## Compétences
+## Langages et Outils
 
-- Langages de programmation : C, Python, HTML, PHP.
-- Technologies : Docker.
-- Outils : Git, CLion, VS Code.
+- Systèmes d'exploitation : `Linux`, `Windows`, `MacOS`
+- Langages de programmation : `C`, `Python`, `Visual Basic`, `HTML`, `PHP`
+- Outils : `Git`, `Docker`, `Visual Studio Code`, `CLion`, `PyCharm`, `IntelliJ IDEA`
 
 ## Projets
 
-### Minishell1
-
-Reproduction des fonctionalités de base d'un interpreteur UNIX.
-
-<!--[GitHub Repository](lien_vers_le_projet)-->
-
-### MyHunter
-
-Reproduction des fonctionnalités du jeu NES Duck Hunt de 1984.
-
-[C-MyHunter](https://github.com/ItsKarmaOff/C-MyHunter)
+- [42sh](https://github.com/ItsKarmaOff/42sh) : Courte description du projet
+- [MyRPG](https://github.com/ItsKarmaOff/MyRPG) : Courte description du projet
 
 ## Contact
 
-- Adresse e-mail : christophe.vandevoir@epitech.eu
-- LinkedIn : [Christophe VANDEVOIR](https://www.linkedin.com/in/christophe-vandevoir/)
+- 📧 Email : [christophe.vandevoir@epitech.eu](mailto:christophe.vandevoir@epitech.eu)
+- 💼 LinkedIn : [Christophe Vandevoir](https://www.linkedin.com/in/christophe-vandevoir/)
+
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions, des suggestions ou si vous êtes intéressé par une collaboration !
