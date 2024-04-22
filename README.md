@@ -19,6 +19,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 - [42sh](https://github.com/ItsKarmaOff/42sh): Project currently in development
 - [MyRPG](https://github.com/ItsKarmaOff/MyRPG): Project currently in development
+- [Epitech JAM](https://github.com/ItsKarmaOff/EPITECH-JAM-22-03-2024): Project developed during a 48-hour game jam
 
 ## Contact
 
