@@ -1,28 +1,28 @@
-# Bienvenue sur mon profil GitHub !
+# Welcome to my GitHub profile!
 
-Salut ! Je suis Christophe VANDEVOIR, étudiant à Epitech passionné par le développement logiciel et les nouvelles technologies. Je suis constamment en quête d'apprentissage et de défis pour améliorer mes compétences en programmation.
+Hi there! My name is Christophe, and I'm a student at Epitech with a passion for software development and new technologies. I'm constantly seeking learning opportunities and challenges to enhance my programming skills.
 
-## À propos de moi
+## About Me
 
-- 🎓 Étudiant à [Epitech](https://www.epitech.eu/)
-- 💻 Domaines d'intérêt : Développement web, Développement mobile, Intelligence artificielle, Sécurité informatique
-- 🌱 Actuellement en train d'apprendre : 
-- 🔭 Je suis à la recherche de stages pour mettre en pratique mes compétences.
+- 🎓 First-year student at [Epitech](https://www.epitech.eu/)
+- 💻 Areas of interest: `Web Development`, `Mobile Development`, `Artificial Intelligence`, `Cybersecurity`
+- 🌱 Currently learning: `Cybersecurity`
+- 🔭 I'm seeking internships to apply my skills in practice.
 
-## Langages et Outils
+## Languages and Tools
 
-- Systèmes d'exploitation : `Linux`, `Windows`, `MacOS`
-- Langages de programmation : `C`, `Python`, `Visual Basic`, `HTML`, `PHP`
-- Outils : `Git`, `Docker`, `Visual Studio Code`, `CLion`, `PyCharm`, `IntelliJ IDEA`
+- Operating Systems: `Linux`, `Windows`, `MacOS`
+- Programming Languages: `C`, `Python`, `Visual Basic`, `HTML`, `PHP`
+- Tools: `Git`, `Docker`, `Visual Studio Code`, `CLion`, `PyCharm`, `Emacs`, `IntelliJ IDEA`
 
-## Projets
+## Projects
 
-- [42sh](https://github.com/ItsKarmaOff/42sh) : Projet en cours de développement
-- [MyRPG](https://github.com/ItsKarmaOff/MyRPG) : Projet en cours de développement
+- [42sh](https://github.com/ItsKarmaOff/42sh): Project currently in development
+- [MyRPG](https://github.com/ItsKarmaOff/MyRPG): Project currently in development
 
 ## Contact
 
-- 📧 Email : [christophe.vandevoir@epitech.eu](mailto:christophe.vandevoir@epitech.eu)
-- 💼 LinkedIn : [Christophe Vandevoir](https://www.linkedin.com/in/christophe-vandevoir/)
+- 📧 Email: [christophe.vandevoir@epitech.eu](mailto:christophe.vandevoir@epitech.eu)
+- 💼 LinkedIn: [Christophe Vandevoir](https://www.linkedin.com/in/christophe-vandevoir/)
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions, des suggestions ou si vous êtes intéressé par une collaboration !
+Feel free to explore my projects and reach out if you have any questions, suggestions, or if you're interested in collaboration!
