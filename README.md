@@ -17,8 +17,8 @@ Salut ! Je suis Christophe VANDEVOIR, étudiant à Epitech passionné par le dé
 
 ## Projets
 
-- [42sh](https://github.com/ItsKarmaOff/42sh) : Courte description du projet
-- [MyRPG](https://github.com/ItsKarmaOff/MyRPG) : Courte description du projet
+- [42sh](https://github.com/ItsKarmaOff/42sh) : Projet en cours de développement
+- [MyRPG](https://github.com/ItsKarmaOff/MyRPG) : Projet en cours de développement
 
 ## Contact
 
