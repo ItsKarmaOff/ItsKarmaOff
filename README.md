@@ -12,7 +12,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 ## Languages and Tools
 
 - Operating Systems: `Linux`, `Windows`, `MacOS`
-- Programming Languages: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/>, <img align="cneter" width="20" height="20" src="https://img.icons8.com/color/512/python--v1.png" alt="python--v1"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/html-5--v1.png" alt="html-5--v1"/>, <img align="cneter" width="20" height="20" src="https://img.icons8.com/color/512/php.png" alt="php"/>, <img align="cneter" width="20" height="20" src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql-logo"/>, `Visual Basic`
+- Programming Languages: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/python--v1.png" alt="python--v1"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/html-5--v1.png" alt="html-5--v1"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/php.png" alt="php"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql-logo"/>, `Visual Basic`
 - Tools: `Git`, `Docker`, `Visual Studio Code`, `CLion`, `PyCharm`, `Emacs`, `IntelliJ IDEA`
 
 ## Projects
