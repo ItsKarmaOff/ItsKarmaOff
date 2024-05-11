@@ -1,5 +1,4 @@
 # Welcome to my GitHub profile!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKarmaOff&theme=tokyonight)
 
 Hi there! My name is Christophe, and I'm a student at Epitech with a passion for software development and new technologies. I'm constantly seeking learning opportunities and challenges to enhance my programming skills.
 
