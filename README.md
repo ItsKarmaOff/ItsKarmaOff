@@ -11,7 +11,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 ## Languages and Tools
 
-- Operating Systems: `Linux`, `Windows`, `MacOS`
+- Operating Systems: <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/fedora.png" alt="fedora"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/windows-10.png" alt="windows-10"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/mac-os.png" alt="mac-os"/>
 - Programming Languages: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/python--v1.png" alt="python--v1"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/html-5--v1.png" alt="html-5--v1"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/php.png" alt="php"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql-logo"/>, `Visual Basic`
 - Tools: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/git.png" alt="git"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/docker.png" alt="docker"/>, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>, `CLion`, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/pycharm--v2.png" alt="pycharm--v2"/>, `PhpStorm`, <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/emacs.png" alt="emacs"/>
 
