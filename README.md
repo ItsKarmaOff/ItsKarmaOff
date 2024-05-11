@@ -6,7 +6,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 - 🎓 First-year student at [Epitech](https://www.epitech.eu/)
 - 💻 Areas of interest: `Web Development`, `Mobile Development`, `Artificial Intelligence`, `Cybersecurity`
-- 🌱 Currently learning: `Cybersecurity`
+- 🌱 Currently learning: `Cybersecurity` `JavaScript`
 - 🔭 I'm seeking internships to apply my skills in practice.
 
 ## Languages and Tools
