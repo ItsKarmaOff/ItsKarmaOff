@@ -12,7 +12,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 ## Languages and Tools
 
 - Operating Systems: `Linux`, `Windows`, `MacOS`
-- Programming Languages: `C`<img width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/>, `Python`, `Visual Basic`, `HTML`, `PHP`
+- Programming Languages: `C`<img align="center" width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/>, `Python`, `Visual Basic`, `HTML`, `PHP`
 - Tools: `Git`, `Docker`, `Visual Studio Code`, `CLion`, `PyCharm`, `Emacs`, `IntelliJ IDEA`
 
 ## Projects
