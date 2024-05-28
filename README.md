@@ -17,8 +17,8 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 ## Projects
 
-- [42sh](https://github.com/ItsKarmaOff/42sh): The 42sh is a project carried out by groups of 5 during our 1st year in EPITECH Grand Ecole program.
-- [MyRPG](https://github.com/ItsKarmaOff/MyRPG): Project currently in development
+- [42sh](https://github.com/ItsKarmaOff/42sh): The 42sh project is a full-fledged Unix shell based on TCSH.
+- [Corewar](https://github.com/ItsKarmaOff/Corewar): The Corewar project is a virtual machine simulation where champions fight for memory by executing instructions.
 
 ## Contact
 
