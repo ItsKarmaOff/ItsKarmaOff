@@ -26,3 +26,5 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 - 💼 LinkedIn: [Christophe Vandevoir](https://www.linkedin.com/in/christophe-vandevoir/)
 
 Feel free to explore my projects and reach out if you have any questions, suggestions, or if you're interested in collaboration!
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ItsKarmaOff&theme=dracula&hide_border=true" alt="GitHub Streak" /></a><br>
