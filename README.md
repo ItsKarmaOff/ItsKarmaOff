@@ -1,52 +1,30 @@
-<h2 align="left">Hi 👋! My name is Christophe and I'm a student at Epitech</h2>
+# Welcome to my GitHub profile!
 
-###
+Hi there! My name is Christophe, and I'm a student at Epitech with a passion for software development and new technologies. I'm constantly seeking learning opportunities and challenges to enhance my programming skills.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsKarmaOff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsKarmaOff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+- 🎓 First-year student at [Epitech](https://www.epitech.eu/)
+- 💻 Areas of interest: `Web Development` · `Mobile Development` · `Artificial Intelligence` · `Cybersecurity`
+- 🌱 Currently learning: `Cybersecurity` · `JavaScript`
+- 🔭 I'm seeking internships to apply my skills in practice.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
+## Languages and Tools
 
-###
+- Operating Systems: <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/fedora.png" alt="fedora"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/windows-10.png" alt="windows"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/fluency/512/mac-os.png" alt="macos"/>
+- Programming Languages: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/c-programming.png" alt="c-programming"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/python--v1.png" alt="python"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/html-5--v1.png" alt="html-5"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/css3.png" alt="css3"/> · <img align="center" width="37" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql-logo"/> · <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" alt="visual-basic"/>
+- Tools: <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/git.png" alt="git"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/docker.png" alt="docker"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="visual-studio-code"/> · <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="clion"/> · <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="pycharm"/> · <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="phpstorm"/> · <img align="center" width="20" height="20" src="https://img.icons8.com/color/512/emacs.png" alt="emacs"/>
 
-<div align="left">
-  <a href="https://yyyyyyoutube.coooom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Projects
 
-###
+- [42sh](https://github.com/ItsKarmaOff/42sh): The 42sh project is a full-fledged Unix shell based on TCSH.
+- [Corewar](https://github.com/ItsKarmaOff/Corewar): The Corewar project is a virtual machine simulation where champions fight for memory by executing instructions.
 
-<img align="right" height="150" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2055050/03e6938ae269d5fb3c83f6c56e1469b36171ad44.gif"  />
+## Contact
 
-###
+- 📧 Email: [christophe.vandevoir@epitech.eu](mailto:christophe.vandevoir@epitech.eu)
+- 💼 LinkedIn: [Christophe Vandevoir](https://www.linkedin.com/in/christophe-vandevoir/)
 
-<br clear="both">
+Feel free to explore my projects and reach out if you have any questions, suggestions, or if you're interested in collaboration!
 
-<img src="https://raw.githubusercontent.com/ItsKarmaOff/ItsKarmaOff/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ItsKarmaOff&theme=dracula&hide_border=true" alt="GitHub Streak" /></a><br>
