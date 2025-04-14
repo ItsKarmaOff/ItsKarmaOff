@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20&text=Karma)
 # Welcome to my GitHub profile!
 
 Hi there! My name is Christophe, and I'm a student at Epitech with a passion for software development and new technologies. I'm constantly seeking learning opportunities and challenges to enhance my programming skills.
