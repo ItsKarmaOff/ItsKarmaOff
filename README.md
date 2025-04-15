@@ -1,6 +1,5 @@
 <div align="center">
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white)
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20&text=Karma&section=header)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20&text=Karma&section=header)
   
 # 👋 Hey, I'm **Karma**
 **Student at Epitech • France**
