@@ -42,17 +42,7 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <a href="https://github.com/ItsKarmaOff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsKarmaOff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKarmaOff&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true"/>
-  </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/ItsKarmaOff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats"/>
-  </a>
+  ![ItsKarmaOff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=synthwave&hide_border=true)
 </div>
 
 ---
