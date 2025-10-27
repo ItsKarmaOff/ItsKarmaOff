@@ -43,7 +43,9 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=synthwave&hide_border=true />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsKarmaOff&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=synthwave&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKarmaOff&theme=synthwave&show_icons=true&hide_border=true&layout=compact"/>
 
 </div>
 
