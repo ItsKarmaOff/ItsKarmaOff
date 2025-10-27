@@ -41,7 +41,11 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 ## 📊 GitHub Stats
 
-  ![ItsKarmaOff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=synthwave&hide_border=true)
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKarmaOff&theme=synthwave&hide_border=true />
+
+</div>
 
 ---
 
