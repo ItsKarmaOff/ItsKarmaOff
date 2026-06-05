@@ -58,14 +58,14 @@ Hi there! My name is Christophe, and I'm a student at Epitech with a passion for
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/confluence/confluence-icon.svg" alt="confluence" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="40" height="40"/>
 </p>
 
 ---
